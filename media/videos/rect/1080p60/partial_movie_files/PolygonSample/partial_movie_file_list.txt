@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:G:/manim/media/videos/rect/1080p60/partial_movie_files/PolygonSample/3977891868_2455768424_223132457.mp4'
+file 'file:G:/manim/media/videos/rect/1080p60/partial_movie_files/PolygonSample/2852726489_3844987385_3090317719.mp4'
+file 'file:G:/manim/media/videos/rect/1080p60/partial_movie_files/PolygonSample/2852726489_2826904842_4206010933.mp4'
+file 'file:G:/manim/media/videos/rect/1080p60/partial_movie_files/PolygonSample/2852726489_1704852926_1576935329.mp4'

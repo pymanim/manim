@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:G:/manim/media/videos/i-math-line/1080p60/partial_movie_files/i_math_line/3977891868_576293838_223132457.mp4'
+file 'file:G:/manim/media/videos/i-math-line/1080p60/partial_movie_files/i_math_line/2852726489_183952151_432042255.mp4'
+file 'file:G:/manim/media/videos/i-math-line/1080p60/partial_movie_files/i_math_line/2852726489_3303468401_2931548098.mp4'
+file 'file:G:/manim/media/videos/i-math-line/1080p60/partial_movie_files/i_math_line/2852726489_2495686180_2744346612.mp4'
+file 'file:G:/manim/media/videos/i-math-line/1080p60/partial_movie_files/i_math_line/2852726489_3906074553_398188168.mp4'
+file 'file:G:/manim/media/videos/i-math-line/1080p60/partial_movie_files/i_math_line/2852726489_1704852926_236748220.mp4'
