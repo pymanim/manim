@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:G:/manim/media/videos/circle/1080p60/partial_movie_files/CircleSample/3977891868_2053559001_223132457.mp4'
-file 'file:G:/manim/media/videos/circle/1080p60/partial_movie_files/CircleSample/2852726489_210671437_511101798.mp4'
-file 'file:G:/manim/media/videos/circle/1080p60/partial_movie_files/CircleSample/2852726489_2340739358_2890892653.mp4'
-file 'file:G:/manim/media/videos/circle/1080p60/partial_movie_files/CircleSample/2852726489_1704852926_856630836.mp4'
